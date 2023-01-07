@@ -1,0 +1,43 @@
+.bigbox{
+	position:relative;
+width:1440px;
+height:1024px;
+
+background: #B0E3B5;
+}
+.mainbox{
+     position: absolute;
+     width: 1295px;
+     height: 181px;
+     left: 72px;
+     top: 56px;
+
+
+    background: #EDF0D9;
+}
+.maintext{ 
+	position:absolute;
+    width: 1295px;
+    height: 90px;
+    left: 50px;
+    top: 5px;
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 76px;
+    line-height: 77px;
+
+    color: #726262;
+}
+.photobox{
+	position: absolute;
+    width: 884px;
+    height: 558px;
+    left: 278px;
+    top: 329px;
+}
+.photobox > img{
+	 width: 800px;
+
+}
